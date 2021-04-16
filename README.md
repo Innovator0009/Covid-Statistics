@@ -1,5 +1,7 @@
 Covid Statistics
+
 What is Covid Statistics?
+
 Covid Statistics Bot Provides you Information about COVID-19 & helps you in tracking the COVID-19 Cases of the World & the Country which you mention. Try c?help to Explore all the amazing commands. 
 
 Commands:-
