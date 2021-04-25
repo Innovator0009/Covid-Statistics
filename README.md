@@ -1,4 +1,4 @@
-Covid Statistics
+### Covid Statistics
 
 What is Covid Statistics?
 
