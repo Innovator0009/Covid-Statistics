@@ -12,7 +12,7 @@ c?information - To get the Basic Information About COVID-19.
 
 c?world - To track COVID-19 cases of the world.
 
-c?covid <country name> - To track COVID-19 cases of a Specific Country.
+c?country <country name> - To track COVID-19 cases of a Specific Country.
 
 c?prevention -  To get the Information to prevent COVID-19.
 
@@ -21,4 +21,6 @@ Symptoms of COVID-19.
 
 c?setPrefix - To change the Prefix of the Bot for a Guild
 
+c?stages - Returns all the Stages of COVID-19
+  
 Invite: http://bit.ly/covidstatsbot
