@@ -1,4 +1,4 @@
-# Covid Statistics Privacy Policy
+# 📜 Covid Statistics Privacy Policy
 By using Covid Statistics, you agree to the following Privacy Policy.
 
 ## What data does the Bot Collect?
@@ -12,6 +12,3 @@ By using Covid Statistics, you agree to the following Privacy Policy.
 
 ## How can users get the data removed/deleted?
 • Users/Moderators of the Guild can join the [Support Server](https://discord.com/invite/vecGcm4zsC) and create a ticket for the same.
-
-
-Last updated on 7th of August 2021, 5:30 am UTC
