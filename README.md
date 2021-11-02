@@ -1,14 +1,14 @@
-### Covid Statistics
+## Covid Statistics
 
 What is Covid Statistics?
 
 Covid Statistics Bot provides you with Information about COVID-19 and helps you in Tracking the COVID-19 Cases of a particular Country, Continent or Worldwide Cases.
 
 
-Prefix: cov 
+### Prefix: cov 
 
 
-Commands:
+### Commands:
 
 cov information - To get the Basic Information About COVID-19.
 
@@ -28,5 +28,6 @@ cov symptoms - To get the Information about all the Common, Less Common & Seriou
 Symptoms of COVID-19.
 
 cov stages - Returns all the Stages of COVID-19.
+  
   
 [Invite](http://dsc.gg/covidstats) • [Support Server](https://discord.com/invite/vecGcm4zsC)
