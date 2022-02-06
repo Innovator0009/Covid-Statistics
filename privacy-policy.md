@@ -3,6 +3,7 @@ By using Covid Statistics, you agree to the following Privacy Policy.
 
 ### What data does the Bot Collect?
 • Server Name
+
 • Server ID
 
 ### Why do we need this Data?
@@ -13,6 +14,7 @@ By using Covid Statistics, you agree to the following Privacy Policy.
 
 ### How can users get the data removed/deleted?
 • Users/Moderators of the Guild can join the [Support Server](https://discord.com/invite/vecGcm4zsC) and create a ticket for the same.
+
 
 
 Last updated on 28th of December 2021, 4:28 pm UTC
